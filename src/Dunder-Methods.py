@@ -23,3 +23,5 @@ ana = User("ana", 23)
 log.info(john)
 
 john > ana
+
+john < ana
